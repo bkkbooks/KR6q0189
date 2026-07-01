@@ -1,0 +1,1470 @@
+canonical_identifier: bkk:krp/KR6q0189/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0189/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 密藏開禪師遺稿
+  identifiers:
+    krp: KR6q0189
+    cbeta: J23nB118
+    cbeta_old_id: J23nB118
+    authorityid: CA0005812
+    json_key: JB118
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J23/J23nB118.xml
+    old_id: J23nB118
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0189_000-J.yaml, hash: 'sha256:460932f3c8da6d7a32456081aa06158fa479aab322f43d48f9fa548afa3a4c8c'}
+  - {seq: 1, filename: KR6q0189_001-J.yaml, hash: 'sha256:9c411ae6a704470e6917c1e5e170f777b9fee10375b1abc0acd02ef262804b49'}
+  - {seq: 2, filename: KR6q0189_002-J.yaml, hash: 'sha256:6c3ee1fcb0cbe3de3e9ffce48294db890018c0cd8d1d731c93e575d7941a258d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0189_000-J.markers.yaml, hash: 'sha256:93300d4f97e63516b50f8cc6447c5006c8f37dc853a2fa60460c4ea3e187a3bd'}
+  - {seq: 1, role: markers, filename: assets/KR6q0189_001-J.markers.yaml, hash: 'sha256:88f998c1eb82ad9409a8c4fe2bc3a36832c0f8c489748dbedb6e9cbf40d25191'}
+  - {seq: 2, role: markers, filename: assets/KR6q0189_002-J.markers.yaml, hash: 'sha256:7d15e928bb2e7d381562dc5729cf80f1761dd3270220104716428649f2afd509'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 道盛序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-3
+    span:
+    - front
+    - 979
+    - 979
+  label: 錢謙益序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-4
+    span:
+    - front
+    - 1584
+    - 1584
+  label: 于元凱序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-5
+    span:
+    - front
+    - 2207
+    - 2207
+  label: 王祺序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-6
+    span:
+    - front
+    - 2798
+    - 2798
+  label: 刻大藏願文一
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-7
+    span:
+    - front
+    - 2798
+    - 2798
+  label: 短述
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-8
+    span:
+    - front
+    - 2932
+    - 2932
+  label: 中衍書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-9
+    span:
+    - front
+    - 3099
+    - 3099
+  label: 道開書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-10
+    span:
+    - front
+    - 3502
+    - 3502
+  label: 曾乾亨書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-11
+    span:
+    - front
+    - 3712
+    - 3712
+  label: 傅光宅書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-12
+    span:
+    - front
+    - 4067
+    - 4067
+  label: 瞿汝稷書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-13
+    span:
+    - front
+    - 4400
+    - 4400
+  label: 唐文獻書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-14
+    span:
+    - front
+    - 4566
+    - 4566
+  label: 曾鳳儀書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-15
+    span:
+    - front
+    - 4840
+    - 4840
+  label: 徐琰和書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-16
+    span:
+    - front
+    - 5120
+    - 5120
+  label: 于玉立書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-17
+    span:
+    - front
+    - 5427
+    - 5427
+  label: 吳惟明書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-18
+    span:
+    - front
+    - 5765
+    - 5765
+  label: 袁黃書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-19
+    span:
+    - front
+    - 6907
+    - 6907
+  label: 法本書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-20
+    span:
+    - front
+    - 7636
+    - 7636
+  label: 念雲勤上人接管寂照刻場緣起實紀
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-21
+    span:
+    - front
+    - 8000
+    - 8000
+  label: 刻大藏願文二
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-22
+    span:
+    - front
+    - 8285
+    - 8285
+  label: 密藏禪師定制校訛書法
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0189_J_000-mulu-23
+    span:
+    - front
+    - 8792
+    - 8792
+  label: 卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 21892
+  label: 密藏開禪師遺稿卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 上慈聖皇太后
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-2
+    span:
+    - body
+    - 261
+    - 261
+  label: 募刻大藏文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-3
+    span:
+    - body
+    - 1033
+    - 1033
+  label: 刻大藏願文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-4
+    span:
+    - body
+    - 1431
+    - 1431
+  label: 刺血書經願文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-5
+    span:
+    - body
+    - 1817
+    - 1817
+  label: 與憨山老師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-6
+    span:
+    - body
+    - 2476
+    - 2476
+  label: 與妙峰老師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-7
+    span:
+    - body
+    - 2777
+    - 2777
+  label: 與陸五臺少宰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-8
+    span:
+    - body
+    - 3376
+    - 3376
+  label: 上本師和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-9
+    span:
+    - body
+    - 4081
+    - 4081
+  label: 復陸五臺大司空
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-10
+    span:
+    - body
+    - 4933
+    - 4933
+  label: 與龍泉兩堂上中下座諸師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-11
+    span:
+    - body
+    - 5109
+    - 5109
+  label: 復空印法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-12
+    span:
+    - body
+    - 5801
+    - 5801
+  label: 與沈恒川居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-13
+    span:
+    - body
+    - 6214
+    - 6214
+  label: 與王宇泰董玄宰兩居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-14
+    span:
+    - body
+    - 7138
+    - 7138
+  label: 與都門檀越
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-15
+    span:
+    - body
+    - 8107
+    - 8107
+  label: 與桂峰師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-16
+    span:
+    - body
+    - 8308
+    - 8308
+  label: 與稚菴師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-17
+    span:
+    - body
+    - 8448
+    - 8448
+  label: 與東禪月亭老師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-18
+    span:
+    - body
+    - 8927
+    - 8927
+  label: 與平廓師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-19
+    span:
+    - body
+    - 9416
+    - 9416
+  label: 與幻居師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-20
+    span:
+    - body
+    - 9552
+    - 9552
+  label: 與仰崖座主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-21
+    span:
+    - body
+    - 9932
+    - 9932
+  label: 與汪伯玉居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-22
+    span:
+    - body
+    - 10150
+    - 10150
+  label: 與汪仲淹居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-23
+    span:
+    - body
+    - 10299
+    - 10299
+  label: 與王弇州居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-24
+    span:
+    - body
+    - 10521
+    - 10521
+  label: 與周鳴宇居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-25
+    span:
+    - body
+    - 10745
+    - 10745
+  label: 與馮開之居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-26
+    span:
+    - body
+    - 11022
+    - 11022
+  label: 與松谷老師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-27
+    span:
+    - body
+    - 11247
+    - 11247
+  label: 復曾舜徵居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-28
+    span:
+    - body
+    - 11504
+    - 11504
+  label: 與于中甫居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-29
+    span:
+    - body
+    - 12338
+    - 12338
+  label: 與繆仲淳居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-30
+    span:
+    - body
+    - 12663
+    - 12663
+  label: 與太原王龍池居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-31
+    span:
+    - body
+    - 12824
+    - 12824
+  label: 與傅伯俊侍御
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-32
+    span:
+    - body
+    - 13452
+    - 13452
+  label: 又與馮開之居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-33
+    span:
+    - body
+    - 13864
+    - 13864
+  label: 與松江康孟脩居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-34
+    span:
+    - body
+    - 14198
+    - 14198
+  label: 與吳江周仲大沈及菴吳孚泉三居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-35
+    span:
+    - body
+    - 14431
+    - 14431
+  label: 與吳康虞居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-36
+    span:
+    - body
+    - 14839
+    - 14839
+  label: 與瞿元立居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-37
+    span:
+    - body
+    - 15094
+    - 15094
+  label: 與賀知機伯仲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-38
+    span:
+    - body
+    - 15480
+    - 15480
+  label: 與徐孺東尚寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-39
+    span:
+    - body
+    - 16052
+    - 16052
+  label: 與顧襟宇少參
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-40
+    span:
+    - body
+    - 16312
+    - 16312
+  label: 復王元美居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-41
+    span:
+    - body
+    - 16483
+    - 16483
+  label: 楞嚴問荅機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-42
+    span:
+    - body
+    - 16572
+    - 16572
+  label: 與王龍池方伯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-43
+    span:
+    - body
+    - 16824
+    - 16824
+  label: 與徐文卿居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-44
+    span:
+    - body
+    - 17705
+    - 17705
+  label: 與傅侍御
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-45
+    span:
+    - body
+    - 18941
+    - 18941
+  label: 與某
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-46
+    span:
+    - body
+    - 19329
+    - 19329
+  label: 與真實居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0189_J_001-mulu-47
+    span:
+    - body
+    - 21892
+    - 21892
+  label: 卷下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 31905
+  label: 密藏開禪師遺稿卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 上本師和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-2
+    span:
+    - body
+    - 683
+    - 683
+  label: 與徐海觀居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-3
+    span:
+    - body
+    - 1166
+    - 1166
+  label: 與曹林師兄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-4
+    span:
+    - body
+    - 1705
+    - 1705
+  label: 與曙天師弟
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-5
+    span:
+    - body
+    - 2017
+    - 2017
+  label: 與李次公居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-6
+    span:
+    - body
+    - 2261
+    - 2261
+  label: 又與曙天師弟
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-7
+    span:
+    - body
+    - 2569
+    - 2569
+  label: 與忠菴師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-8
+    span:
+    - body
+    - 2907
+    - 2907
+  label: 與沈及菴吳孚泉周仲大周季華四居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-9
+    span:
+    - body
+    - 3390
+    - 3390
+  label: 與朱濟川樂子晉二居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-10
+    span:
+    - body
+    - 3637
+    - 3637
+  label: 復董玄宰太史鏡喻辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-11
+    span:
+    - body
+    - 5211
+    - 5211
+  label: 與孫仲來王宇靖于中甫三居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-12
+    span:
+    - body
+    - 5595
+    - 5595
+  label: 與徐孟孺康孟脩陸中復三居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-13
+    span:
+    - body
+    - 5959
+    - 5959
+  label: 與公錫居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-14
+    span:
+    - body
+    - 6123
+    - 6123
+  label: 與幻居師兄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-15
+    span:
+    - body
+    - 6246
+    - 6246
+  label: 與傅伯俊居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-16
+    span:
+    - body
+    - 6464
+    - 6464
+  label: 與汪仲淹居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-17
+    span:
+    - body
+    - 6723
+    - 6723
+  label: 與曾舜徵居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-18
+    span:
+    - body
+    - 7022
+    - 7022
+  label: 與馮開之居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-19
+    span:
+    - body
+    - 7231
+    - 7231
+  label: 與賀知機伯仲
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-20
+    span:
+    - body
+    - 7791
+    - 7791
+  label: 與大司空陸五臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-21
+    span:
+    - body
+    - 8047
+    - 8047
+  label: 與張梅村居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-22
+    span:
+    - body
+    - 8304
+    - 8304
+  label: 與陸五臺大司寇
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-23
+    span:
+    - body
+    - 8801
+    - 8801
+  label: 荅岳石帆居士…
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-24
+    span:
+    - body
+    - 8981
+    - 8981
+  label: 與黃貞父居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-25
+    span:
+    - body
+    - 9263
+    - 9263
+  label: 與文卿居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-26
+    span:
+    - body
+    - 9881
+    - 9881
+  label: 與盧晉明居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-27
+    span:
+    - body
+    - 10071
+    - 10071
+  label: 與瑯琊空不空居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-28
+    span:
+    - body
+    - 10377
+    - 10377
+  label: 與吳康虞居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-29
+    span:
+    - body
+    - 10610
+    - 10610
+  label: 與威縣尹默齋居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-30
+    span:
+    - body
+    - 10890
+    - 10890
+  label: 與曲陽鮑明府
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-31
+    span:
+    - body
+    - 11087
+    - 11087
+  label: 與包澹然居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-32
+    span:
+    - body
+    - 11313
+    - 11313
+  label: 與盧思齋總戎
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-33
+    span:
+    - body
+    - 11560
+    - 11560
+  label: 與包瑞溪學憲
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-34
+    span:
+    - body
+    - 11856
+    - 11856
+  label: 覲西如師索書六不齋自責語敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-35
+    span:
+    - body
+    - 12315
+    - 12315
+  label: 與陳代州居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-36
+    span:
+    - body
+    - 12429
+    - 12429
+  label: 復稽將軍
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-37
+    span:
+    - body
+    - 12535
+    - 12535
+  label: 復罕峰道者貽蘋果
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-38
+    span:
+    - body
+    - 12621
+    - 12621
+  label: 與馮把總
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-39
+    span:
+    - body
+    - 12800
+    - 12800
+  label: 與于中甫潤甫伯仲
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-40
+    span:
+    - body
+    - 13241
+    - 13241
+  label: 與嘉禾諸文學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-41
+    span:
+    - body
+    - 13602
+    - 13602
+  label: 與馮開之居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-42
+    span:
+    - body
+    - 13912
+    - 13912
+  label: 與項東源居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-43
+    span:
+    - body
+    - 14257
+    - 14257
+  label: 與張大心居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-44
+    span:
+    - body
+    - 14426
+    - 14426
+  label: 與王龍池方伯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-45
+    span:
+    - body
+    - 14730
+    - 14730
+  label: 與傳伯俊居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-46
+    span:
+    - body
+    - 14840
+    - 14840
+  label: 與徐太僕
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-47
+    span:
+    - body
+    - 15148
+    - 15148
+  label: 與王龍池方伯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-48
+    span:
+    - body
+    - 15680
+    - 15680
+  label: 與曾舜徵居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-49
+    span:
+    - body
+    - 16071
+    - 16071
+  label: 與王宇泰居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-50
+    span:
+    - body
+    - 16548
+    - 16548
+  label: 跋某卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-51
+    span:
+    - body
+    - 16637
+    - 16637
+  label: 與傳侍御
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-52
+    span:
+    - body
+    - 16867
+    - 16867
+  label: 與房山王明府
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-53
+    span:
+    - body
+    - 17311
+    - 17311
+  label: 與某
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-54
+    span:
+    - body
+    - 17451
+    - 17451
+  label: 與傳侍御
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-55
+    span:
+    - body
+    - 18832
+    - 18832
+  label: 代張中貴作戒文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-56
+    span:
+    - body
+    - 19129
+    - 19129
+  label: 重脩稽古寺記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-57
+    span:
+    - body
+    - 19618
+    - 19618
+  label: 與真實居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-58
+    span:
+    - body
+    - 20088
+    - 20088
+  label: 與某
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-59
+    span:
+    - body
+    - 20196
+    - 20196
+  label: 與某
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-60
+    span:
+    - body
+    - 20294
+    - 20294
+  label: 與陸太宰
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-61
+    span:
+    - body
+    - 20572
+    - 20572
+  label: 跋持準提陀羅尼福用解
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-62
+    span:
+    - body
+    - 20951
+    - 20951
+  label: 明優婆夷薛氏塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-63
+    span:
+    - body
+    - 21118
+    - 21118
+  label: 示寂先師楞嚴寺住持了然和尚行狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-64
+    span:
+    - body
+    - 22101
+    - 22101
+  label: 後跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-65
+    span:
+    - body
+    - 22489
+    - 22489
+  label: 遺稿始末略言
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-66
+    span:
+    - body
+    - 22940
+    - 22940
+  label: 楞嚴寺規約
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-67
+    span:
+    - body
+    - 22940
+    - 22940
+  label: 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-68
+    span:
+    - body
+    - 23242
+    - 23242
+  label: 規約
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-69
+    span:
+    - body
+    - 27616
+    - 27616
+  label: 楞嚴寺禪堂規約
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-70
+    span:
+    - body
+    - 29633
+    - 29633
+  label: 念雲勤公塔銘并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-71
+    span:
+    - body
+    - 30879
+    - 30879
+  label: 附刻徑山請書
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0189_J_002-mulu-72
+    span:
+    - body
+    - 31777
+    - 31777
+  label: 尊者與藏大師書
+  type: mulu
+  level: 1
+hash: sha256:51c6ca1b779da379e02b3abe267c147d3df34729eaf6e4464ade5c6d8cebbf9a
