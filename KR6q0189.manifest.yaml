@@ -21,11 +21,11 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0189_000.yaml, hash: 'sha256:c74df05193cabfbc95f956aaf593451d421ea0a7c9b2ec27a8f92b9853415e37'}
+  - {seq: 0, filename: KR6q0189_000.yaml, hash: 'sha256:4473677eb83e9618596d64a634519f8c2129091719d9abb225f43d57ef73b1f4'}
   - {seq: 1, filename: KR6q0189_001.yaml, hash: 'sha256:b6d49b6488b78fd342b1c302c2901cf5f87dbff4a1252f30d129099803067c64'}
   - {seq: 2, filename: KR6q0189_002.yaml, hash: 'sha256:875b45a041effce74580ed163cc671ea8e587c3b9005aa93e1be6007af695f06'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0189_000.markers.yaml, hash: 'sha256:8e03f4f34aad4f1d57e8734c897a4ae5c208bf1caecc1a50e64b3fe95eeeea27'}
+  - {seq: 0, role: markers, filename: assets/KR6q0189_000.markers.yaml, hash: 'sha256:bdaee51b8603cbc3bce501dc07a09066e3f72b3de2f4b01ac725b28b45243503'}
   - {seq: 1, role: markers, filename: assets/KR6q0189_001.markers.yaml, hash: 'sha256:5b5bb75d8fd0a4e4c0dd5873909d2e8d61fb15746944c926ad5ca66d5b5c82ae'}
   - {seq: 2, role: markers, filename: assets/KR6q0189_002.markers.yaml, hash: 'sha256:b0ff8a43c409414f661d7da3e4333903fece4b950afb30fdc82b08d4dc9e3126'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 道盛序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-3
     span:
-    - front
+    - body
     - 979
     - 979
   label: 錢謙益序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-4
     span:
-    - front
+    - body
     - 1584
     - 1584
   label: 于元凱序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-5
     span:
-    - front
+    - body
     - 2207
     - 2207
   label: 王祺序
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-6
     span:
-    - front
+    - body
     - 2798
     - 2798
   label: 刻大藏願文一
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-7
     span:
-    - front
+    - body
     - 2798
     - 2798
   label: 短述
@@ -103,7 +103,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-8
     span:
-    - front
+    - body
     - 2932
     - 2932
   label: 中衍書
@@ -113,7 +113,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-9
     span:
-    - front
+    - body
     - 3099
     - 3099
   label: 道開書
@@ -123,7 +123,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-10
     span:
-    - front
+    - body
     - 3502
     - 3502
   label: 曾乾亨書
@@ -133,7 +133,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-11
     span:
-    - front
+    - body
     - 3712
     - 3712
   label: 傅光宅書
@@ -143,7 +143,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-12
     span:
-    - front
+    - body
     - 4067
     - 4067
   label: 瞿汝稷書
@@ -153,7 +153,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-13
     span:
-    - front
+    - body
     - 4400
     - 4400
   label: 唐文獻書
@@ -163,7 +163,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-14
     span:
-    - front
+    - body
     - 4566
     - 4566
   label: 曾鳳儀書
@@ -173,7 +173,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-15
     span:
-    - front
+    - body
     - 4840
     - 4840
   label: 徐琰和書
@@ -183,7 +183,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-16
     span:
-    - front
+    - body
     - 5120
     - 5120
   label: 于玉立書
@@ -193,7 +193,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-17
     span:
-    - front
+    - body
     - 5427
     - 5427
   label: 吳惟明書
@@ -203,7 +203,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-18
     span:
-    - front
+    - body
     - 5765
     - 5765
   label: 袁黃書
@@ -213,7 +213,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-19
     span:
-    - front
+    - body
     - 6907
     - 6907
   label: 法本書
@@ -223,7 +223,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-20
     span:
-    - front
+    - body
     - 7636
     - 7636
   label: 念雲勤上人接管寂照刻場緣起實紀
@@ -233,7 +233,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-21
     span:
-    - front
+    - body
     - 8000
     - 8000
   label: 刻大藏願文二
@@ -243,7 +243,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-22
     span:
-    - front
+    - body
     - 8285
     - 8285
   label: 密藏禪師定制校訛書法
@@ -253,7 +253,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0189_J_000-mulu-23
     span:
-    - front
+    - body
     - 8792
     - 8792
   label: 卷上
@@ -1469,7 +1469,7 @@ table_of_contents:
   label: 尊者與藏大師書
   type: mulu
   level: 1
-hash: sha256:7df98e5d422009ab4baa3bd90a94229e15326e2b492970fdc1b137d761645871
+hash: sha256:2970294ae78d8b1fc8db4d7dcdb4b09656ddff4ded948d2fbfc5e644a7143d8c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
